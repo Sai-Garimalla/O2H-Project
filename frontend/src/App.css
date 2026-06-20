@@ -1,0 +1,6 @@
+/* App-level overrides — component-specific rules go here if needed */
+
+/* Ensure the gradient mesh background pseudo-element covers the html root */
+html {
+  min-height: 100%;
+}
